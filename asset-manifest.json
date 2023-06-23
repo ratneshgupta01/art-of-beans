@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/art-of-beans/static/css/main.db129912.css",
+    "main.js": "/art-of-beans/static/js/main.934c0327.js",
+    "index.html": "/art-of-beans/index.html",
+    "main.db129912.css.map": "/art-of-beans/static/css/main.db129912.css.map",
+    "main.934c0327.js.map": "/art-of-beans/static/js/main.934c0327.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db129912.css",
+    "static/js/main.934c0327.js"
+  ]
+}
